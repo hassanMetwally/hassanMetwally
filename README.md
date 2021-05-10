@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hassanMetwally
+- 👋🏻 Hi, I’m @hassanMetwally
 - 👀 I’m interested in Artificial Intelligence
 - 💞️ I’m looking to collaborate on Machine Learning
-- Ask me about design and analysis of algorithms
+- 🤝🏻 Ask me about design and analysis of algorithms
 - 📫 How to reach me: send me email on has.metwally@gmail.com
-- Fun fact: Keep coding
+- 💻 Fun fact: Keep coding
 
 
 <!---
